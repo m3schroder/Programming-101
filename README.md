@@ -1,4 +1,4 @@
-# Programming-101
+# One o One
 
 Directory that I'm using to teach some friends / family the basic of programming. 
 
